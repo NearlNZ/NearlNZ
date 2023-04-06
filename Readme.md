@@ -1,4 +1,4 @@
-# Hello, I'm [Surapat Thippakdee]() <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello, I'm [Surapat Thippakdee](#) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💬 About Me
 🎓 I am a computer science student currently studying at Suratthani Rajabhat University.\
