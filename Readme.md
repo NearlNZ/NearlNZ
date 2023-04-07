@@ -5,13 +5,18 @@
 🌱 I am currently expanding my knowledge of JavaScript.\
 😉 I am looking for a professional internship to gain practical experience.\
 💻 I am interested in developing web applications and creating internet of things (IoT) devices or automated systems using Arduino/Esp8266.
+#### 🌐 Socials
+<a href="https://github.com/NearlNZ" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/surapat-thippakdee-1107a1271/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/SurapatThippakdee" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
 <br><br>
 
 ## ⭐ Experience
 #### 📆 2023
-- Developing web application ***"Online Plant Database Sysytem"*** for the Computer Science Department at Suratthani Rajabhat University.
-- Developing web application ***"Commencement Ceremony Rehearsal Registration System"*** for Suratthani Rajabhat University.
+- Developing web application ***"Online Plant Database System"*** for the Computer Science Department at Suratthani Rajabhat University.
+
 #### 📆 2022
+- Developing web application ***"Commencement Ceremony Rehearsal Registration System"*** for Suratthani Rajabhat University.
 - Developing web application ***"Online Equipment Repairing Request System"*** for Southern Institute of Child and Adolescent Mental Health.
 <br><br>
 
