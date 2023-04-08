@@ -7,7 +7,7 @@
 💻 I am interested in developing web applications and creating internet of things (IoT) devices or automated systems using Arduino/Esp8266.
 #### 🌐 Socials
 <a href="https://github.com/NearlNZ" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/surapat-thippakdee-1107a1271/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nearlnz/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/SurapatThippakdee" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
 <br><br>
 
